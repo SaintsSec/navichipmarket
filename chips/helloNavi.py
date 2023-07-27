@@ -8,4 +8,4 @@ user = getpass.getuser()
 
 
 def run():
-    print(f"Navi> Hello {user}! Welcome to the Chip Market!")
+    print(f"\nNavi> Hello {user}! Welcome to the Chip Market!\n")
