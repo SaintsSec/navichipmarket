@@ -2,8 +2,7 @@
 
 ## What is the Chip Market?
 Simply put its an extension of the Navi repository.   
-This platform serves as a marketplace for discovering, sharing, and collaborating on innovative custom software designed to enhance the capabilities of the Navi AI Interface.   
-With Navi Chips, users can personalize and tailor the AI experience to their specific needs and preferences.
+This platform serves as a marketplace for discovering, sharing, and collaborating on innovative custom software designed to enhance the capabilities of the Navi AI Interface. With chips, users can personalize and tailor the AI experience to their specific needs and preferences.
 
 ## What are Chips?
 Navi Chips are specialized bits of custom software, each focusing on a particular task or domain, such as but not limited to:  
