@@ -1,0 +1,59 @@
+{
+    "intents": [
+        {
+            "tag": "Definition",
+            "patterns": [
+                "What is digital forensics?",
+                "Define digital forensics",
+                "Digital forensics meaning"
+            ],
+            "responses": [
+                "Digital forensics, also known as computer forensics, is the process of identifying, preserving, extracting, analyzing, and presenting digital artifacts and evidence from electronic devices, such as computers, smartphones, or networks, usually in relation to cybercrimes or legal disputes."
+            ]
+        },
+        {
+            "tag": "Subfields",
+            "patterns": [
+                "What are the subfields of digital forensics?",
+                "Types of digital forensics",
+                "Different areas in digital forensics"
+            ],
+            "responses": [
+                "Digital forensics can be broken down into several subfields, including: Computer forensics, Network forensics, Mobile device forensics, Forensic data analysis, and Database forensics."
+            ]
+        },
+        {
+            "tag": "Process",
+            "patterns": [
+                "What is the process of digital forensics?",
+                "Steps in digital forensics",
+                "How does digital forensics work?"
+            ],
+            "responses": [
+                "Digital forensics typically involves the following steps: Identification, Preservation, Extraction, Analysis, and Presentation/Reporting. This is often referred to as the digital forensics process or the digital forensics lifecycle."
+            ]
+        },
+        {
+            "tag": "Tools",
+            "patterns": [
+                "What tools are used in digital forensics?",
+                "List digital forensics tools",
+                "Digital forensics software"
+            ],
+            "responses": [
+                "There are many tools used in digital forensics, each with different purposes. Examples include EnCase, FTK (Forensic Toolkit), Autopsy, Volatility for memory forensics, Wireshark for network forensics, and Cellebrite for mobile forensics."
+            ]
+        },
+        {
+            "tag": "Challenges",
+            "patterns": [
+                "What are the challenges in digital forensics?",
+                "Difficulties in digital forensics",
+                "Problems faced in digital forensics"
+            ],
+            "responses": [
+                "Some challenges in digital forensics include: rapid evolution of technology, volume of data, encryption, anti-forensic techniques, remote storage and cloud computing, maintaining chain of custody, and cross-jurisdictional issues."
+            ]
+        }
+    ]
+}
