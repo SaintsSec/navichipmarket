@@ -1,7 +1,7 @@
 {
     "intents": [
         {
-            "tag": "Definition",
+            "tag": "aae5605b8d82f83adc2c1740e6d0adc5",
             "patterns": [
                 "What is digital forensics?",
                 "Define digital forensics",
@@ -12,7 +12,7 @@
             ]
         },
         {
-            "tag": "Subfields",
+            "tag": "6cc8d216e3e5a25d09f1a1c0c6b148d0",
             "patterns": [
                 "What are the subfields of digital forensics?",
                 "Types of digital forensics",
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "tag": "Process",
+            "tag": "ab9673511a8a6b8ff28baa0a9aabc3d4",
             "patterns": [
                 "What is the process of digital forensics?",
                 "Steps in digital forensics",
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "tag": "Tools",
+            "tag": "1887cecb62516e06d3e31e45a59de2a5",
             "patterns": [
                 "What tools are used in digital forensics?",
                 "List digital forensics tools",
@@ -45,7 +45,7 @@
             ]
         },
         {
-            "tag": "Challenges",
+            "tag": "db48e2f3afcc8f2ca04f7016e7f0c9d5",
             "patterns": [
                 "What are the challenges in digital forensics?",
                 "Difficulties in digital forensics",
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "tag": "Career",
+            "tag": "c24c3c3e731f490c9f3ac8a2855886fb",
             "patterns": [
                 "What career opportunities exist in digital forensics?",
                 "Jobs in digital forensics",
@@ -65,6 +65,51 @@
             "responses": [
                 "There are many career opportunities in digital forensics, including roles as a Digital Forensics Analyst, Cybersecurity Analyst, Incident Responder, Security Consultant, or Forensics Investigator. These roles can be found in law enforcement, government agencies, private corporations, or independent consulting firms. Having skills in areas such as cybersecurity, information technology, criminal justice, and law can be beneficial in these roles."
             ]
+        },
+        {
+            "tag": "6fbbd4da26102e287f662cfd4f8f3c3b",
+            "patterns": [
+                "What are the initial steps in computer forensics?",
+                "What to do before acquiring a computer in a forensic investigation?",
+                "Pre-acquisition steps in computer forensics"
+            ],
+            "responses": [
+                "Before acquiring a computer or imaging its data in a digital forensic investigation, there are crucial initial steps to ensure the integrity and admissibility of the evidence. These steps include: 1) Securing the scene: This involves controlling access to the area where the device is located to prevent any unauthorized changes or tampering. 2) Documenting the scene: Taking photographs and notes of the device's position, connections, and any other relevant surroundings. 3) Identifying potential evidence: Determining which devices or storage media might contain relevant information. 4) Handling the evidence: If the device is powered on, deciding whether to shut it down or to capture live memory, depending on the nature of the case and potential evidence. 5) Chain of custody: Logging every interaction with the evidence to maintain its integrity. This includes recording details like who handled it, when, why, and how."
+            ]
+        },
+        {
+            "tag": "94426b8dfd4fe68b4cd68f33f1bf65f8",
+            "patterns": [
+                "How do you secure a digital forensic scene?",
+                "Why is securing the scene important in computer forensics?",
+                "Scene control in digital forensics"
+            ],
+            "responses": [
+                "Securing the scene in a digital forensic investigation is paramount to ensure the original state of digital evidence remains unaltered. It involves establishing a perimeter around the area, restricting access to only authorized personnel, and ensuring no modifications are made to the devices or their connections. By preserving the scene's integrity, investigators can be confident that the evidence they collect reflects the device's original state and is not compromised by external factors."
+            ]
+        },
+        {
+            "tag": "c91eb059db77e70d3e8820b3df816dee",
+            "patterns": [
+                "What is the importance of documenting the scene in digital forensics?",
+                "How do you document a forensic scene?",
+                "Recording details at a digital forensic scene"
+            ],
+            "responses": [
+                "Documenting the scene in digital forensics is essential to create a visual and written record of the original state of the digital evidence and its surroundings. Proper documentation includes taking photographs from various angles, noting the location and state of all devices, recording the device's powered state, noting any active network connections, and writing descriptions of the overall scene. This documentation aids in the reconstruction of events, ensures the chain of custody is maintained, and can be crucial for court presentations to show the evidence was collected without contamination."
+            ]
+        },
+        {
+            "tag": "8c54ef9f6ea9d1c84a1455d5f9b7bcb4",
+            "patterns": [
+                "Why is chain of custody important in digital forensics?",
+                "Explain chain of custody in computer forensics",
+                "Purpose of maintaining a chain of custody"
+            ],
+            "responses": [
+                "The chain of custody in digital forensics refers to the documented and unbroken trail of accountability that ensures the physical and electronic integrity of evidence from its initial collection to its final presentation in court. It records who accessed the evidence, when, why, and any actions taken during its storage or analysis. Maintaining a robust chain of custody is vital to ensure that evidence has not been tampered with, altered, or otherwise compromised. A well-documented chain of custody can prove the evidence's authenticity and integrity in court, making it more likely to be accepted by a judge or jury."
+            ]
         }
     ]
 }
+
