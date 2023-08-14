@@ -32,3 +32,4 @@ def run():
     print("")
     typewriter("Navi> *sigh* There now I don't feel so dirty...*eye-roll*")
     print("")
+    # this should fix it....
