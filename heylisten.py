@@ -31,3 +31,4 @@ def run():
     typewriter("Navi> *Anime style air jump* Navi!!! Jack-In EXECUTE!!!")
     print("")
     typewriter("Navi> *sigh* There now I don't feel so dirty...*eye-roll*")
+    print("")
